@@ -1,0 +1,5 @@
+name: PlayerDeathCoords
+version: 1.0.1
+author: harrison.page
+main: love.toad.Main
+api-version: 1.21
